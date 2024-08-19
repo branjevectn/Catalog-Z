@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// veg
+// vegdd
 func main() {
   fmt.Println("Hello World!")
 }
