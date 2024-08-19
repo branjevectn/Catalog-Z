@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// fhhhfdcbjfxvjdgjbggcffhjgcgchvxbjhg
+// vhfxx
 func main() {
   fmt.Println("Hello World!")
 }
